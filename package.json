@@ -1,0 +1,14 @@
+{
+  "name": "minecraft-admin-panel",
+  "version": "0.0.1",
+  "main": "src/server.js",
+  "repository": "https://github.com/TheDevYellowy/Minecraft-Admin-Panel.git",
+  "author": "Yellowy <64450187+TheDevYellowy@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "connect-nocache": "^1.1.0",
+    "connect-sse": "^1.2.0",
+    "connect-xcors": "^0.5.2",
+    "express": "^4.18.1"
+  }
+}
